@@ -1,86 +1,76 @@
-### Analytical Skills
-Analytical skills are qualities and characteristics associated with solving problems using facts.
 
-Five essential aspects to analytical skills:
-1. Curiosity  
-   - It is all about wanting to learn something. 
-2. Understanding context
-   - Context is the condition in which something exists or happens. This can be a structure or an environment.
-   - Grouping things into categories.
-   - Understanding where information fits into the “big picture”.
-3. Having technical mindset
-   - The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
-4. Data design
-   - Data design is how you organize information.
-5. Data strategy
-   - Data strategy is the management of the people, processes, and tools used in data analysis.
+### Kỹ năng phân tích (Analytical Skills)
+Kỹ năng phân tích là những phẩm chất và đặc điểm giúp bạn giải quyết vấn đề dựa trên sự thật và dữ liệu.
 
-Data-driven decision-making involves curiosity, understanding context, having a technical mindset, data design, and data strategy.
+5 yếu tố quan trọng của kỹ năng phân tích:
+1. **Tò mò (Curiosity):** Luôn muốn học hỏi, khám phá điều mới.
+2. **Hiểu bối cảnh (Understanding context):** Nhận biết điều kiện, môi trường mà vấn đề xảy ra; biết phân loại và đặt thông tin vào "bức tranh tổng thể".
+3. **Tư duy kỹ thuật (Technical mindset):** Có khả năng chia nhỏ vấn đề thành các bước nhỏ, xử lý một cách logic, có hệ thống.
+4. **Thiết kế dữ liệu (Data design):** Biết cách tổ chức, sắp xếp thông tin hợp lý.
+5. **Chiến lược dữ liệu (Data strategy):** Quản lý con người, quy trình và công cụ trong phân tích dữ liệu.
+
+Việc ra quyết định dựa trên dữ liệu (data-driven decision-making) đòi hỏi bạn phải có đủ các yếu tố trên.
 
 <br />
 
-### Analytical Thinking
-Analytical thinking involves identifying and defining a problem and then solving it by using data in an organized, step-by-step manner.
 
-Five key aspects to analytical thinking:
-1. Visualization 
-   - The graphical representation of information.
-   - To understand and explain information more effectively.
-2. Strategy 
-   - Strategizing helps data analysts see what they want to achieve with the data and how they can get there. Strategy also helps improve the quality and usefulness of the data we collect. By strategizing, we know all our data is valuable and can help us accomplish our goals.
-3. Problem-orientation 
-   - Data analysts use a problem- oriented approach in order to identify, describe, and solve problems. It's all about keeping the problem top of mind throughout the entire project.
-4. Correlation 
-   - Being able to identify a relationship between two or more pieces of data.
-   - Correlation does not equal causation. In other words, just because two pieces of data are both trending in the same direction, that doesn't necessarily mean they are all related.
-5. Big-picture and detail-oriented thinking.
-   - Being able to see the big picture as well as the details.
-   - Detail-oriented thinking is all about figuring out all of the aspects that will help you execute a plan.
+### Tư duy phân tích (Analytical Thinking)
+Tư duy phân tích là khả năng xác định, định nghĩa vấn đề và giải quyết nó bằng dữ liệu theo từng bước rõ ràng, có tổ chức.
+
+5 yếu tố chính của tư duy phân tích:
+1. **Trực quan hóa (Visualization):** Biểu diễn thông tin bằng hình ảnh, giúp hiểu và giải thích dữ liệu dễ dàng hơn.
+2. **Chiến lược (Strategy):** Xác định mục tiêu, lập kế hoạch sử dụng dữ liệu để đạt được mục tiêu đó, đảm bảo dữ liệu thu thập được đều hữu ích.
+3. **Định hướng vấn đề (Problem-orientation):** Luôn tập trung vào vấn đề cần giải quyết trong suốt quá trình phân tích.
+4. **Tìm mối liên hệ (Correlation):** Nhận biết mối quan hệ giữa các dữ liệu. Lưu ý: tương quan không đồng nghĩa với nguyên nhân (correlation ≠ causation).
+5. **Nhìn tổng thể và chi tiết (Big-picture & detail-oriented thinking):** Vừa nhìn được bức tranh lớn, vừa chú ý đến các chi tiết nhỏ để thực hiện kế hoạch hiệu quả.
 
 <br />
 
 ---
 
-The more ways you can think, the easier it is to think outside the box and come up with fresh ideas.
 
-You need to think **critically** to find out the right questions to ask.
+Càng đa dạng cách tư duy, bạn càng dễ "nghĩ ngoài khuôn khổ" và sáng tạo ra ý tưởng mới.
 
-You also need to think **creatively** to get new and unexpected answers.
+Bạn cần tư duy **phê phán** (critical thinking) để đặt ra những câu hỏi đúng.
 
----
-
-<br />
-
-### Root cause (What is the root cause of a problem?)
-A root cause is the reason why a problem occurs.
-If we can identify and get rid of a root cause, we can prevent that problem from happening again.
-
-#### 5 whys
-In the Five Whys you ask "why" five times to reveal the root cause. The fifth and final answer should give you some useful and sometimes surprising insights.
-
-The Five Whys process is used to reveal a root cause of a problem through the answer to the fifth question.
-
-<br />
-
-### Gap analysis (Where are the gaps in our process?)
-Gap analysis is a method for examining and evaluating how a process works currently in order to get where you want to be in the future. Improving accessibility, increasing efficiency, and reducing carbon emissions are examples of improvements that gap analysis can help accomplish.
-
-The general approach to gap analysis is understanding where you are now compared to where you want to be. Then you can identify the gaps that exist between the current and future state and determine how to bridge them.
-
-<br />
-
-### (What did we not consider before?)
-This is a great way to think about what information or procedure might be missing from a process, so you can identify ways to make better decisions and strategies moving forward.
-
-<br />
-
-#### Quartile
-A quartile divides data points into four equal parts or quarters. 
-
-<br />
+Và cũng cần tư duy **sáng tạo** (creative thinking) để tìm ra các câu trả lời mới mẻ, bất ngờ.
 
 ---
 
-[Glossary](https://docs.google.com/document/d/1NPfVEPe0X2l3d2v-XIaevT0I5OU5J4EYMGeetijKhAM/template/preview?resourcekey=0-bLCbJQfNZJ70tiFfxT2VXg)
+<br />
+
+
+### Nguyên nhân gốc rễ (Root cause)
+Nguyên nhân gốc rễ là lý do sâu xa khiến vấn đề xảy ra. Nếu xác định và loại bỏ được nguyên nhân này, bạn sẽ ngăn được vấn đề tái diễn.
+
+#### 5 lần hỏi "Tại sao" (5 Whys)
+Kỹ thuật "5 Whys" là liên tục hỏi "Tại sao?" 5 lần để tìm ra nguyên nhân gốc rễ. Đáp án ở lần hỏi thứ 5 thường sẽ cho bạn cái nhìn sâu sắc, bất ngờ về vấn đề.
+
+<br />
+
+
+### Phân tích khoảng cách (Gap analysis)
+Phân tích khoảng cách là phương pháp đánh giá quy trình hiện tại để xác định điểm cần cải thiện nhằm đạt mục tiêu trong tương lai. Ví dụ: tăng hiệu quả, giảm phát thải, nâng cao khả năng tiếp cận...
+
+Cách làm: So sánh trạng thái hiện tại với mục tiêu mong muốn, xác định "khoảng cách" và lên kế hoạch thu hẹp khoảng cách đó.
+
+<br />
+
+
+### (Chúng ta đã bỏ sót điều gì?)
+Đây là cách giúp bạn suy nghĩ về những thông tin hoặc quy trình còn thiếu, từ đó cải thiện quyết định và chiến lược trong tương lai.
+
+<br />
+
+
+#### Tứ phân vị (Quartile)
+Tứ phân vị là cách chia tập dữ liệu thành 4 phần bằng nhau (4 phần tư), mỗi phần chứa 25% số liệu.
+
+<br />
+
+---
+
+
+[Thuật ngữ](https://docs.google.com/document/d/1NPfVEPe0X2l3d2v-XIaevT0I5OU5J4EYMGeetijKhAM/template/preview?resourcekey=0-bLCbJQfNZJ70tiFfxT2VXg)
 
 ---
